@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="url_base">https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/</string>
+</resources>
